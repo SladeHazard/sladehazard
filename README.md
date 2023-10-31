@@ -12,11 +12,11 @@
 
 <h2 align="center">
   <a href="https://github.com/SladeHazard">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/?username=SladeHazard&show_icons=true&theme=onedark">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/?username=SladeHazard&show_icons=true&theme=merko">
   </a>
   <br>
   <a href="https://github.com/SladeHazard">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SladeHazard&layout=compact&theme=onedark">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SladeHazard&layout=compact&theme=merko">
   </a>
 </h2>
 

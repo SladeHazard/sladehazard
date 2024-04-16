@@ -14,11 +14,10 @@
   <a href="https://github.com/SladeHazard">
     <img align="center" src="https://github-readme-stats.vercel.app/api/?username=SladeHazard&show_icons=true&theme=merko">
   </a>
-  <br>
-  <a href="https://github.com/SladeHazard">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SladeHazard&layout=compact&theme=merko">
-  </a>
+  <hr> <!-- Line -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Archer2336&layout=compact&theme=merko">
 </h2>
+
 
 <br>
 
